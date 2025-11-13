@@ -1,3 +1,15 @@
 ai
+
 人工智能
+
 deepResearch
+
+sora
+
+gpt
+
+gemini
+
+claude
+
+agent
