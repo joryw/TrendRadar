@@ -13,3 +13,9 @@ gemini
 claude
 
 agent
+
+deepseek
+
+react
+
+openai
